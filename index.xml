@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2023 16:26:13 -0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My1stpost</title>
+      <link>http://example.org/posts/my1stpost/</link>
+      <pubDate>Fri, 14 Jul 2023 16:26:13 -0700</pubDate>
+      
+      <guid>http://example.org/posts/my1stpost/</guid>
+      <description>Using Help and training videos Aquilon Help - Using Live vs Test &amp;ndash;07/12&amp;ndash;&amp;gt; [[23-07-12#^3e9b6e|Live vs Test]]
+Go-Live plan and balancing method - See: Go-Live Checklist doc. - Go-Live tasks: - A/R &amp;amp; A/P open invoices to be imported - Current inventory x item (OHQ, unit cost) - sub-ledgers balance to G/L in QB - Reconcile old/new systems. - P/Os expected to be received after Go-Live s/b entered into Aquilon. - S/Os expected to ship after Go-Live s/b entered into Aquilon.</description>
+    </item>
+    
+  </channel>
+</rss>
