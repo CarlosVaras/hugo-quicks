@@ -13,8 +13,8 @@
       <pubDate>Fri, 14 Jul 2023 16:26:13 -0700</pubDate>
       
       <guid>https://test1-kx5p.onrender.com/posts/my1stpost/</guid>
-      <description>Using Help and training videos Aquilon Help - Using Live vs Test &amp;ndash;07/12&amp;ndash;&amp;gt; [[23-07-12#^3e9b6e|Live vs Test]]
-Go-Live plan and balancing method - See: Go-Live Checklist doc. - Go-Live tasks: - A/R &amp;amp; A/P open invoices to be imported - Current inventory x item (OHQ, unit cost) - sub-ledgers balance to G/L in QB - Reconcile old/new systems. - P/Os expected to be received after Go-Live s/b entered into Aquilon. - S/Os expected to ship after Go-Live s/b entered into Aquilon.</description>
+      <description>Go-Live plan and balancing method - See: Go-Live Checklist doc. - Go-Live tasks: - A/R &amp;amp; A/P open invoices to be imported - Current inventory x item (OHQ, unit cost) - sub-ledgers balance to G/L in QB - Reconcile old/new systems. - P/Os expected to be received after Go-Live s/b entered into AQ. - S/Os expected to ship after Go-Live s/b entered into AQ.
+Data import review - Key fields / size limits: - Customer, Supplier: 7 chars.</description>
     </item>
     
   </channel>
